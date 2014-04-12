@@ -1,4 +1,4 @@
-#Just Trying Ruby on Rails tutorial
+#Just Trying Ruby on Rails tutorial!
 == README
 
 Here it goes, my first rails app.
